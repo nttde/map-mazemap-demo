@@ -28,3 +28,16 @@ Want to represent near-real-time gps locations in outdoor and indoor MazeMaps? T
 ## Getting help
 
 For any question please contact jesus.perez@global.ntt
+
+## NTT Managed Automation Platform (MAP) is:
+### A tool we use internally
+MAP was developed for our Technical and Manage Services teams to automate their work, meanwhile used worldwide internally.
+### A tool we use for our clients
+We improve our processes to better manage client requests and to have better results by using MAP internally.
+### A tool our clients use
+We offer the same tool to our clients to automate their work for them, to co-create with them or just use what was already developed.
+### It's not just a tool, it’s a journey
+Automation is a journey, we have internal methodology Automation by Design, that covers whole automation lifecycle from finding automations, via the company and processes improvements, working agile to the MAP tool.
+
+![image](https://user-images.githubusercontent.com/7114726/124953879-d193ee00-e015-11eb-993d-bb2bb1e54af7.png)
+
