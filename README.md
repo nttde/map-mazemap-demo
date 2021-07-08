@@ -39,5 +39,5 @@ We offer the same tool to our clients to automate their work for them, to co-cre
 ### It's not just a tool, it’s a journey
 Automation is a journey, our internal methodology "Automation by Design" covers the whole automation lifecycle from finding automations, via the company and processes improvements, working agile to the MAP tool.
 
-![image](https://user-images.githubusercontent.com/7114726/124954136-13249900-e016-11eb-8923-087b6906d7d5.png)
+![image](https://user-images.githubusercontent.com/7114726/124960452-a365dc80-e01c-11eb-8daf-5805965c4d94.png)
 
