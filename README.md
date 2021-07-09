@@ -2,9 +2,9 @@
 
 This Node-RED flow illustrates the potential of combining NTT Managed Automation Platform (MAP) and Cisco MazeMap for geolocation usecases.
 
-Description: 
+Description of the demo: 
 
-* GPS data is taken from the Microsoft Geolife Dataset 
+* GPS data has been taken from the [Microsoft Geolife Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=52367) and is hardcoded in the [flow](https://github.com/nttde/map-mazemap-demo/blob/master/MAP-MazeMap-demo-flow.json)
 * NTT MAP (Node-RED) is used to serve the the web landing page with the MazeMap as well as the GPS coordinates of 3 arbitrary tracked objects
 * Frontend (jquery) polls location data from Node-RED and updates the position of the markers in the MazeMap
 
@@ -23,7 +23,7 @@ Want to represent near-real-time gps locations in outdoor and indoor MazeMaps? T
 * Import MAP-MazeMap-demo-flow.json
 * Click deploy
 * Browse http://{{your-node-RED-path}}/demo
-* Near-Real-Time location data corresponding to three different individuals of the Geolife Dataset will be simulated on the demo
+* Near-Real-Time location data corresponding to the aboved mentioned dataset will be simulated on the demo
 
 ## Getting help
 
