@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/nttde/map-mazemap-demo)
+
 # MAP MazeMap Demo
 
 This Node-RED flow illustrates the potential of combining NTT Managed Automation Platform (MAP) and Cisco MazeMap for geolocation usecases.
