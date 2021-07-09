@@ -29,7 +29,7 @@ Want to represent near-real-time gps locations in outdoor and indoor MazeMaps? T
 
 ## Getting help
 
-For any question please contact jesus.perez@global.ntt
+For any question please contact eu.de.devnet@global.ntt
 
 ## NTT Managed Automation Platform (MAP) is:
 ### A tool we use internally
